@@ -21,3 +21,19 @@ Link:
 
 ### AI Use in Epidemic Modeling and Helping Governments Contain the Virus Spread
 Link: https://ras-nsa.ca/publication/network-challenge-report-covid-19/
+
+
+
+
+
+
+# Contact Me
+
+Email: haratiank2@gmail.com
+
+YouTube channel: https://www.youtube.com/channel/UCvf9_53f6n3YjNEA4NxAkJA?view_as=subscriber
+GitHub: https://github.com/Kianoush-h
+LinkedIn: https://www.linkedin.com/in/kianoush-haratiannejadi/
+
+
+
