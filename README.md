@@ -11,7 +11,7 @@ Link: https://ieeexplore.ieee.org/abstract/document/8914464?casa_token=ov5B_rXOk
 
 ### Smart Glove and Hand Gesture-based Control Interface for Multi-Rotor Aerial Vehicles in a Multi-Subject Environment
 
-Link: 
+Link: https://ieeexplore.ieee.org/abstract/document/9298751
 
 
 
