@@ -15,14 +15,18 @@ Link: https://ieeexplore.ieee.org/abstract/document/9298751
 
 
 
+### 3) Public Policy Challenges, Regulations, Oversight, Technical, and Ethical Considerations for Autonomous Systems: A Survey
+
+Link: 
+
+
+
 
 
 ### MINDS
 
 ### 1) AI Use in Epidemic Modeling and Helping Governments Contain the Virus Spread
 Link: https://ras-nsa.ca/publication/network-challenge-report-covid-19/
-
-
 
 
 
